@@ -12,7 +12,11 @@ public class Example{
   public Example(){
     Engine engHP = new Engine();
     //eval
-    engHP.eval("code...");
+    try{
+      engHP.eval("code...");
+    }catch(ExceptionHTMLP e){
+      e.printStackTrace();
+    }
     //put java object in HTML+
     engHP.put("nameTag", "Object");
     engHP.put("System", System.class);
