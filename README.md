@@ -29,3 +29,7 @@ public class Example{
 }
 ```
 More Info in Wiki!
+
+## Browser
+
+In your project add HTMLP and [JwebAssembly](https://github.com/i-net-software/JWebAssembly) and follow the JWebAssembly instructions, and Wiki by HTML+.
