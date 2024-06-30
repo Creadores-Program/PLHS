@@ -28,8 +28,8 @@ public class Example{
   }
 }
 ```
-More Info in [Wiki!](https://github.com/Trollhunters501/HTMLP/wiki)
+More Info in [Wiki!](https://github.com/Trollhunters501/PLHS/wiki)
 
 ## Browser
 
-In your project add PLHS and [JwebAssembly](https://github.com/i-net-software/JWebAssembly) and follow the JWebAssembly instructions, and [Wiki](https://github.com/Trollhunters501/HTMLP/wiki) by PLHS.
+In your project add PLHS and [JwebAssembly](https://github.com/i-net-software/JWebAssembly) and follow the JWebAssembly instructions, and [Wiki](https://github.com/Trollhunters501/PLHS/wiki) by PLHS.
