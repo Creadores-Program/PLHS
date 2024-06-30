@@ -28,7 +28,7 @@ public class Example{
   }
 }
 ```
-More Info in Wiki!
+More Info in [Wiki!](https://github.com/Trollhunters501/HTMLP/wiki)
 
 ## Browser
 
