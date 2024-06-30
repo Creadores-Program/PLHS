@@ -32,4 +32,4 @@ More Info in Wiki!
 
 ## Browser
 
-In your project add HTMLP and [JwebAssembly](https://github.com/i-net-software/JWebAssembly) and follow the JWebAssembly instructions, and Wiki by HTML+.
+In your project add HTMLP and [JwebAssembly](https://github.com/i-net-software/JWebAssembly) and follow the JWebAssembly instructions, and [Wiki](https://github.com/Trollhunters501/HTMLP/wiki) by HTML+.
