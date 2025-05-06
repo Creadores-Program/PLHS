@@ -1,7 +1,7 @@
 # PLHS
 Programing Language HTML Syntax
 
-<img align="center" width="50%" src="https://github.com/Trollhunters501/PLHS/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo_20240831_081942_0000.png"/>
+<img align="center" width="50%" src="./.github/resources/logo.png"/>
 # How to use?
 ## Java
 Example:
